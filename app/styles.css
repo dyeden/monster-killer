@@ -1,0 +1,45 @@
+.box {
+    margin: 1em;
+    padding: 10px;
+    box-shadow: 5px 5px #d2d2d2;
+}
+
+.box-actions {
+    text-align: center;
+}
+
+.box-endgame {
+    text-align: center;
+    font-size: large;
+}
+
+
+button {
+    border: none;
+    border-radius: 5px;
+}
+
+.box-arena {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.players {
+    margin: 1em;
+    width: 500px;
+    text-align: center;
+    
+}
+
+
+li {
+    list-style-type:none;
+    text-align: center;
+}
+
+.log-item {
+    border-radius: 5px;
+    background-color: #df8080;
+    margin: 0.5em;
+}
